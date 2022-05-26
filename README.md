@@ -1,6 +1,8 @@
 # smartgym
 
-A new Flutter project.
+An app in flutter designed to help gym goers connect with each other. Users will be able to connect with those of a similar experience level as this can serve as a motivating factor to go to thr gym more often.
+
+Also wish to add a feature that allows new members to analyze their form.
 
 ## Getting Started
 
